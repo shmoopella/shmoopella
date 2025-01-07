@@ -7,7 +7,8 @@
 - #### Hard skills:
   + JavaScript, HTML, CSS, C/C++
   + React, Bootstrap, Postman
-  + Node.js, PostgreSQL, Sequelize
+  + Node.js, Express.js
+  + PostgreSQL, Sequelize
   + GitLab/GitHub, CI/CD
   + Linux, bash/zsh, npm, Docker, QT
 
