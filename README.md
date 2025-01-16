@@ -5,12 +5,12 @@
 ##  Навыки
 
 - #### Hard skills:
-  + JavaScript, HTML, CSS, C/C++
+  + JavaScript, HTML, CSS, SCSS/SASS
   + React, Bootstrap, Postman
   + Node.js, Express.js
   + PostgreSQL, Sequelize
   + GitLab/GitHub, CI/CD
-  + Linux, bash/zsh, npm, Docker, QT
+  + Linux, bash/zsh, npm, Docker, QT, C/C++
 
 
 - #### Soft skills: 
