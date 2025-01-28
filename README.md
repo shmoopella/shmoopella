@@ -36,5 +36,6 @@
 | [Проекты на языке Си](https://github.com/shmoopella/C-CPP/tree/main/C_projects) | Проекты на Си, знакомство с императивной парадигмой программирования                                                                                                               | С                                                                               |
 | [Проекты на С++](https://github.com/shmoopella/C-CPP/tree/main/CPP_projects)    | Проекты на С++, знакомство с ООП, MVC                                                                                                                                              | C++, Qt                                                                         |
 | [Algorithms](https://github.com/shmoopella/Algorithms)                          | Изучение алгоритмов: генерация лабиринта и графы                                                                                                                                   | C++                                                                             |
+|[React Pizza](https://github.com/shmoopella/React-Pizza)  |Pet-проект, написанный на React. | ReactJS, React Router, CSS-Modules / SCSS, React Content Loader (скелетон) |
 
 
