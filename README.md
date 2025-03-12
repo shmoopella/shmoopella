@@ -6,18 +6,17 @@
 
 - #### Hard skills:
   + JavaScript, HTML, CSS, SCSS/SASS
-  + React, Bootstrap, Postman
+  + React, Bootstrap, Redux Toolkit
   + Node.js, Express.js
   + PostgreSQL, Sequelize
   + GitLab/GitHub, CI/CD
-  + Linux, bash/zsh, npm, Docker, QT, C/C++
+  + Linux, bash/zsh, npm, Docker, C/C++
 
 
 - #### Soft skills: 
     + Ответственность и мотивация на результат
     + Дисциплинированность и умение соблюдать дедлайны
     + Стремление к знаниям и саморазвитию
-    + Деловая коммуникация
 
 ## 📚 Обучение
 ###  Студент [21 School](https://21-school.ru) (образовательный проект от Cбера)
