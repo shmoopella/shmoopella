@@ -5,7 +5,7 @@
 ##  Навыки
 
 - #### Hard skills:
-  + JavaScript, HTML, CSS, SCSS/SASS
+  + JavaScript, TypeScript, HTML, CSS-modules, SCSS/SASS
   + React, Bootstrap, Redux Toolkit
   + Node.js, Express.js
   + PostgreSQL, Sequelize
